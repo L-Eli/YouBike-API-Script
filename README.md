@@ -16,7 +16,7 @@
 
 ## 2. 取得各站點狀態
 
-執行 script 取得 YouBike 各站點狀態。
+執行 script 取得 YouBike 各站點狀態。**（可使用作業系統排程執行，定期取得狀態資訊。）**
 ```
 > php get-status.php
 ```
